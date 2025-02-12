@@ -24,14 +24,14 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="1.1391782"
-     inkscape:cx="340.15749"
+     inkscape:cx="340.59641"
      inkscape:cy="94.366272"
      inkscape:window-width="1504"
      inkscape:window-height="1176"
      inkscape:window-x="2236"
-     inkscape:window-y="52"
+     inkscape:window-y="44"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g3" />
+     inkscape:current-layer="g4" />
   <defs
      id="defs1" />
   <g
@@ -45,7 +45,7 @@
     <g
        inkscape:groupmode="layer"
        id="g4"
-       inkscape:label="result = source additional" />
+       inkscape:label="result-raw = source" />
   </g>
   <g
      id="g1"
