@@ -27,5 +27,8 @@ Of course you may add any other files you wish. The above files are the ones fou
 Your GitHub repository configuration settings needs the following:
 
 - Actions / General / Workflow permissions / Read and write permissions / Save
-- 
+
+**IMPORTANT** - when copying this repository remember `.gitignore` and `.github`
+
+**TROUBLESHOOTING** - if a push has not triggered a build of results, you may have forgotten the **IMPORTANT** reminder!
 
